@@ -5,7 +5,7 @@ var server = http.createServer(app);
 
 
 app.get('/', function(req, res){
-    res.send('I like Test04!');
+    res.send('I like Test05!');
 });
 
 app.get('/start', function(req, res){
